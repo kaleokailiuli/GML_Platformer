@@ -7,7 +7,7 @@
     "path": "sprites/Spr_InvisibleWall/Spr_InvisibleWall.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
